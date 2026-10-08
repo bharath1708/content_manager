@@ -1,0 +1,10 @@
+youtube_video:
+  title: Rails tutorial
+  description: Intro video
+  platform: youtube
+  content_type: video
+
+instagram_reel:
+  title: Quick tip
+  platform: instagram
+  content_type: reel
